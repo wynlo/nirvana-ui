@@ -1,0 +1,1 @@
+function e(e={}){return async(e=!0)=>{}}export{e as registerSW};
